@@ -20,6 +20,12 @@
 
   <dependencies>
     <dependency>
+	<groupId>jline</groupId>
+	<artifactId>jline</artifactId>
+	<version>2.12</version>
+    </dependency>
+
+    <dependency>
       <groupId>org.locationtech.geogig</groupId>
       <artifactId>geogig-geotools</artifactId>
       <version>${geogig.version}</version>
